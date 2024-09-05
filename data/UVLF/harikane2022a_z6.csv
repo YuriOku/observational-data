@@ -1,0 +1,22 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2022ApJS..259...20H/abstract
+#AUTHOR, Harikane+
+#YEAR, 2022a
+#REDSHIFT, 6
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE,  Subaru/Hyper Suprime-Cam survey and CFHT Large Area U-band Survey, Chabrier IMF, (h, Omega_m, Omega_l) = (0.7, 0.3, 0.7)
+#IMF, Chabrier
+-25.02 , 1.05e-8 , 1.05e-8 , 4.11e-8
+-24.52 , 2.13e-8 , 2.13e-8 , 4.21e-8
+-24.02 , 2.77e-8 , 2.23e-8 , 4.19e-8
+-23.52 , 8.51e-8 , 2.25e-8 , 5.38e-8
+-23.12 , 3.34e-7 , 0.72e-7 , 0.72e-7
+-22.82 , 1.24e-6 , 0.14e-6 , 0.15e-6
+-22.52 , 2.67e-6 , 0.39e-6 , 0.39e-6
+-22.22 , 4.48e-6 , 0.53e-6 , 0.53e-6
+-21.92 , 1.10e-5 , 0.09e-5 , 0.09e-5
+-21.62 , 3.69e-5 , 0.48e-5 , 0.48e-5
+-21.32 , 7.35e-5 , 0.85e-5 , 0.85e-5
+-21.02 , 1.77e-4 , 0.21e-4 , 0.21e-4   

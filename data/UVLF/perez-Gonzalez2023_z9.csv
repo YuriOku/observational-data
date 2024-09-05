@@ -1,0 +1,14 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2023ApJ...951L...1P/abstract
+#AUTHOR, Perez-Gonzalez+
+#YEAR, 2023
+#REDSHIFT, 9
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE, deep NIRCam observations taken in parallel with the MIRI Deep Survey of the Hubble Ultra Deep Field (HUDF), NIRCam covering the parallel field 2, 8<z<10, Chabrier IMF, (h, Omega_m, Omega_l) = (0.7, 0.3, 0.7)
+#IMF, Chabrier
+-19.5 , 6.76e-5 , 5.10e-5 , 5.54e-5  
+-18.5 , 2.95e-4 , 1.21e-4 , 1.22e-4  
+-17.5 , 1.70e-3 , 5.50e-4 , 4.90e-4  
+-16.5 , 5.01e-3 , 2.32e-3 , 2.23e-3  

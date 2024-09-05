@@ -1,0 +1,12 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.6011D/abstract
+#AUTHOR, Donnan+
+#YEAR, 2023
+#REDSHIFT, 8
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE,  JWST NIRCam data / UltraVISTA survey (ESO's VISTA telescope), Chabrier IMF, (h, Omega_m, Omega_l) = (0.7, 0.3, 0.7)
+#IMF, Chabrier
+-22.17 , 0.63e-6 , 0.30e-6 , 0.50e-6
+-21.42 , 3.92e-6 , 1.56e-6 , 2.34e-6  

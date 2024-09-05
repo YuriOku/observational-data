@@ -1,0 +1,12 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2059B/abstract
+#AUTHOR, Bowler+
+#YEAR, 2020
+#REDSHIFT, 9
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE, derived from deep near-infrared survey data from the UltraVISTA fourth data release (DR4) and the VIDEO survey, in combination with overlapping optical and Spitzer data, bin width to be δz =1.0, Chabrier IMF, (h, Omega_m, Omega_l) = (0.7, 0.3, 0.7)
+#IMF, Chabrier
+-22.90 , 0.00000016 , 0.00000011 ,  0.00000011  
+-21.90 , 0.00000084 , 0.00000049 ,  0.00000049  

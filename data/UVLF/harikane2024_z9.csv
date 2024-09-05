@@ -1,0 +1,14 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2024ApJ...960...56H/abstract
+#AUTHOR, Harikane+
+#YEAR, 2024
+#REDSHIFT, 9
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE,  JWST/NIRSpec observational data sets, z = 8.5-9.5, z_ave = 8.93, Chabrier IMF, (h, Omega_m, Omega_l) = (0.7, 0.3, 0.7)
+#IMF, Chabrier
+-22.0 , 6.6e-6 , 4.7e-6 , 7.1e-6
+-21.0 , 5.1e-6 , 3.8e-6 , inf
+-20.0 , 2.9e-5 , 2.2e-5 , inf
+-19.0 , 3.5e-5 , 2.4e-5 , inf 

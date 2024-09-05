@@ -1,0 +1,16 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2023ApJS..265....5H/abstract
+#AUTHOR, Harikane+
+#YEAR, 2023
+#REDSHIFT, 12
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE,  JWST NIRCam data sets obtained in the ERO and ERS programs, ERO SMACS J0723, ERO Stephan's Quintet, ERS CEERS, and ERS GLASS, Chabrier IMF, (h, Omega_m, Omega_l) = (0.6766, 0.3111, 0.6899)
+#IMF, Chabrier
+-23.21 , 5.85e-6 ,     inf ,      0.0 
+-22.21 , 6.40e-6 ,     inf ,      0.0 
+-21.21 , 5.00e-6 , 4.27e-6 , 11.56e-6
+-20.21 , 1.31e-5 , 0.89e-5 ,  1.75e-5  
+-19.21 , 2.40e-5 , 1.40e-5 ,  2.38e-5  
+-18.21 , 1.42e-4 , 1.10e-4 ,  1.97e-4  

@@ -1,0 +1,16 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2018ApJ...855..105O/abstract
+#AUTHOR, Oesch+
+#YEAR, 2018
+#REDSHIFT, 10
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE, derived from full HST data set which includes all extragalactic HST legacy imaging fields (z = 10 galaxy candidates identified in the latestfull Hubble Frontier Field), Chabrier IMF, (h, Omega_m, Omega_l) = (0.7, 0.3, 0.7)
+#IMF, Chabrier
+-22.25 , 0.0000017,       inf,  0.00000  
+-21.25 , 0.000001 , 0.0000008,  0.0000022  
+-20.25 , 0.000010 , 0.000005 ,  0.000010  
+-19.25 , 0.000034 , 0.000022 ,  0.000045  
+-18.25 , 0.00019  , 0.00012  ,  0.00025  
+-17.25 , 0.00063  , 0.00052  ,  0.00149  

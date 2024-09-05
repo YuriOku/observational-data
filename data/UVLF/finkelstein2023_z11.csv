@@ -1,0 +1,14 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2023ApJ...946L..13F/abstract
+#AUTHOR, Finkelstein+
+#YEAR, 2023
+#REDSHIFT, 11
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE,  JWST Cosmic Evolution Early Release Science Survey (CEERS), Chabrier IMF, (h, Omega_m, Omega_l) = (0.6736, 0.3153, 0.6847)
+#IMF, Chabrier
+-21.2 ,  2.8e-5 ,    inf ,     0.0
+-20.5 ,  4.0e-5 , 2.5e-5 ,  4.2e-5
+-19.8 , 14.6e-5 , 5.9e-5 ,  8.2e-5
+-19.1 , 13.7e-5 , 7.4e-5 , 11.5e-5 

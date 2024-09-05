@@ -1,0 +1,11 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2022ApJ...929....1H/abstract
+#AUTHOR, Harikane+
+#YEAR, 2022b
+#REDSHIFT, 13
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE,  optical grizy images obtained in the HyperSuprime-Cam Subaru Strategic Program (HSC-SSP) survey public data release 2; nearinfrared JHKs/K images of the UltraVISTA DR4 and UKIDSS UDS DR11 in the COSMOS and SXDS fields, respectively; and Spitzer/IRAC images obtained in the Spitzer Large Area Survey with Hyper-Suprime-Cam (SPLASH), Chabrier IMF, (h, Omega_m, Omega_l) = (0.6774, 0.3089, 0.6911)
+#IMF, Chabrier
+-23.5 , 3.7e-8 , 3.0e-8 , 8.4e-8 

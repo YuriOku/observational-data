@@ -1,0 +1,13 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2024ApJ...970...31R/abstract
+#AUTHOR, Robertson+
+#YEAR, 2024
+#REDSHIFT, 12.5
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE, JADES Origins Field, the deepest imaging field observed with JWST. We make use of ancillary Hubble Space Telescope optical images (five filters spanning 0.4-0.9 μm) and novel JWST images with 14 filters spanning 0.8-5 μm, including seven medium-band filters, and reaching total exposure times of up to 46 hr per filter, 11.5<z<13.5, Chabrier IMF, (h, Omega_m, Omega_l) = (0.7, 0.3, 0.7)
+#IMF, Chabrier
+-18.5 ,  1.22e-4 , 0.94e-4 , 0.94e-4  
+-18.0 ,  3.20e-4 , 2.46e-4 , 2.46e-4  
+-17.6 ,  1.54e-4 , 1.18e-4 , 1.18e-4  

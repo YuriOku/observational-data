@@ -1,0 +1,11 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.1009B/abstract
+#AUTHOR, Bouwens+
+#YEAR, 2023
+#REDSHIFT, 17
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE, derived from three most-studied JWST/NIRCam data sets, the SMACS0723, GLASS Parallel, and CEERS fields, Chabrier IMF, (h, Omega_m, Omega_l) = (0.7, 0.3, 0.7)
+#IMF, Chabrier
+-21.96 , 0.000018 , 0.000014 , 0.000014 

@@ -180,16 +180,28 @@ def load_obsdata(key, z1, z2, IMF="Chabrier", ratio="undef", verbose=False):
         pprint("X-axis: "+xaxis+", Y-axis: "+yaxis)
         pprint("Reference: "+ref)
         pprint(note)
-        data = {
-            "x": np.array(x),
-            "y": np.array(y),
-            "y1": np.array(y) - np.array(sm),
-            "y2": np.array(y) + np.array(sp),
-            "label": author+" "+year[-2:]+" (z="+z+")",
-            "author": author,
-            "z": z,
-            "year": year,
-        }
+        if(year[-1]=="a" or year[-1]=="b"):
+            data = {
+                "x": np.array(x),
+                "y": np.array(y),
+                "y1": np.array(y) - np.array(sm),
+                "y2": np.array(y) + np.array(sp),
+                "label": author+" "+year[-3:]+" (z="+z+")",
+                "author": author,
+                "z": z,
+                "year": year,
+            }
+        else:
+            data = {
+                "x": np.array(x),
+                "y": np.array(y),
+                "y1": np.array(y) - np.array(sm),
+                "y2": np.array(y) + np.array(sp),
+                "label": author+" "+year[-2:]+" (z="+z+")",
+                "author": author,
+                "z": z,
+                "year": year,
+            }
 
         out.append(data)
     # end loop over files

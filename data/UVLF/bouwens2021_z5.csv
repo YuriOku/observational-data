@@ -1,0 +1,22 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2021AJ....162...47B/abstract
+#AUTHOR, Bouwens+
+#YEAR, 2021
+#REDSHIFT, 5
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE, derived from the Hubble Space Telescope ( Essentially all of the noncluster extragalactic legacy fields are utilized, including the Hubble Ultra Deep Field, the Hubble Frontier Fields parallel fields, and all five CANDELS fields, for a total survey area of 1136 arcmin2), Chabrier IMF, (h, Omega_m, Omega_l) = (0.7, 0.3, 0.7)
+#IMF, Chabrier
+-23.11 , 0.000001 , 0.000001 , 0.000001 
+-22.61 , 0.000004 , 0.000002 , 0.000002 
+-22.11 , 0.000028 , 0.000007 , 0.000007 
+-21.61 , 0.000092 , 0.000013 , 0.000013 
+-21.11 , 0.000262 , 0.000024 , 0.000024 
+-20.61 , 0.000584 , 0.000044 , 0.000044 
+-20.11 , 0.000879 , 0.000067 , 0.000067 
+-19.61 , 0.001594 , 0.000156 , 0.000156 
+-19.11 , 0.002159 , 0.000346 , 0.000346 
+-18.36 , 0.004620 , 0.000520 , 0.000520 
+-17.36 , 0.008780 , 0.001540 , 0.001540 
+-16.36 , 0.025120 , 0.007340 , 0.007340  

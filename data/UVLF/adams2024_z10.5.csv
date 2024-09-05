@@ -1,0 +1,15 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2024ApJ...965..169A/abstract
+#AUTHOR, Adams+
+#YEAR, 2024
+#REDSHIFT, 10.5
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE, the "blank" fields of the Prime Extragalactic Areas for Reionization and Lensing Science (PEARLS) survey combined with Early Release Science data from the CEERS, GLASS, and NGDEEP surveys/fields and the first data release of JADES, Chabrier IMF, (h, Omega_m, Omega_l) = (0.7, 0.3, 0.7)
+#IMF, Chabrier
+-20.95 , 0.721e-5 , 0.480e-5 , 0.480e-5 
+-20.45 , 1.855e-5 , 0.888e-5 , 0.888e-5 
+-19.75 , 3.331e-5 , 1.314e-5 , 1.314e-5 
+-19.45 , 6.674e-5 , 3.960e-5 , 3.960e-5 
+-18.70 , 9.996e-5 , 6.155e-5 , 6.155e-5      

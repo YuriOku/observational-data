@@ -1,0 +1,11 @@
+#REF, https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..55F/abstract
+#AUTHOR, Finkelstein+
+#YEAR, 2022b
+#REDSHIFT, 12
+#COLUMN1, M_UV [mag]
+#COLUMN2, Phi [mag^-1 Mpc^-3]
+#COLUMN3, -sigma
+#COLUMN4, +sigma
+#NOTE,  JWST Cosmic Evolution Early Release Science Survey (CEERS), z = 11.5-12.5, Chabrier IMF, (h, Omega_m, Omega_l) = (0.6736, 0.3153, 0.6847)
+#IMF, Chabrier
+-20.3 , 2.0e-5 , 1.7e-5 , 4.6e-5 
